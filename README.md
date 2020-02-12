@@ -1,2 +1,2 @@
 # Face-Generator-GAN
-Using DCGAN generated new faces
+Using Deep Convolutional GAN (DCGAN) generated fake faces.
